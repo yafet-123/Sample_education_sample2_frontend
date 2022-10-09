@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <div className="relative hero-background w-full h-screen md:h-[40rem]">
-        <div className="absolute left-1/4 md:left-16 bottom-1/4 md:bottom-0 z-10 flex flex-col w-96 h-96 bg-yellow-400 p-10">
+        <div className="hidden  absolute left-16 bottom-0 z-10 md:flex flex-col w-96 h-96 bg-yellow-400 p-10">
           <h1 className="text-5xl md:text-6xl text-black font-bold uppercase">
             Success
           </h1>
