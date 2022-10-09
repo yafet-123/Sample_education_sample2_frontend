@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.contact-background {
+  background-image: url("../public/image/bgImage7.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-background {
+  background-image: url("../public/image/bgImage1.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
