@@ -4,7 +4,7 @@ export function Aim() {
   return (
     <div>
       <div className="p-36 bg-black text-white">
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-16 mb-20">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-16 mb-20">
           <div className="flex flex-col">
             <h1 className="text-xl font-bold uppercase text-left mb-5">
               strategy
