@@ -14,9 +14,9 @@ export function Contact() {
               Margo dawson
             </h1>
             <p className="font-serif font-medium text-black tracking-wide leading-6 text-center capitalize px-10">
-              "There are two types of people who will tell you that you cannot
+              There are two types of people who will tell you that you cannot
               make diffrence in this world: who are afraid to try and those who
-              are afraid you will scuessed."
+              are afraid you will scuessed.
             </p>
           </div>
 

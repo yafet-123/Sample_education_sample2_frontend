@@ -49,9 +49,9 @@ export function Strategy() {
               className="absolute w-full"
             />
             <div className="hidden lg:block absolute -top-16 left-64 w-[26rem] h-72 bg-yellow-400 z-10 p-10 font-serif font-medium text-slate-900 tracking-wide leading-6 text-left capitalize">
-              "impossible is just a big word thrown around by small men who find
+              impossible is just a big word thrown around by small men who find
               it easier to live in the world the have been given, than to
-              explore the power they have to change it. "
+              explore the power they have to change it.
             </div>
           </div>
         </div>
