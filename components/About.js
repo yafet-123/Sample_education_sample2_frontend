@@ -20,6 +20,7 @@ export function About() {
           src="/image/bgImage2.avif"
           width={1000}
           height={1000}
+          alt="Image"
           className="absolute w-full"
         />
       </div>

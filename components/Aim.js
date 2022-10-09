@@ -71,6 +71,7 @@ export function Aim() {
             src="/image/bgImage3.avif"
             width={400}
             height={400}
+            alt="Image"
             className="absolute w-full"
           />
           <h1 className="text-4xl font-bold uppercase text-left md:w-1/2 my-5">
@@ -87,6 +88,7 @@ export function Aim() {
             src="/image/bgImage4.avif"
             width={300}
             height={200}
+            alt="Image"
             className="z-10"
           />
           <div className="hidden lg:block absolute top-16 left-24 w-[26rem] h-72 bg-yellow-400"></div>

@@ -25,6 +25,7 @@ export function Contact() {
               src="/image/bgImage8.avif"
               width={450}
               height={500}
+              alt="Image"
               className=""
             />
           </div>

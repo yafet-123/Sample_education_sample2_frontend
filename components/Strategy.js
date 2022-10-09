@@ -26,6 +26,7 @@ export function Strategy() {
             src="/image/bgImage5.avif"
             width={400}
             height={500}
+            alt="Image"
             className="absolute w-full"
           />
         </div>
@@ -44,6 +45,7 @@ export function Strategy() {
               src="/image/bgImage6.avif"
               width={300}
               height={200}
+              alt="Image"
               className="absolute w-full"
             />
             <div className="hidden lg:block absolute -top-16 left-64 w-[26rem] h-72 bg-yellow-400 z-10 p-10 font-serif font-medium text-slate-900 tracking-wide leading-6 text-left capitalize">
