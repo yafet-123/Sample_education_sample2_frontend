@@ -7,7 +7,7 @@ export function Strategy() {
         <h1 className="text-2xl font-bold uppercase text-left mb-5">
           business strategy
         </h1>
-        <h1 className="text-5xl tracking-wide leading-[3.5rem] font-bold uppercase text-left mb-5 w-full md:w-1/2">
+        <h1 className="text-5xl tracking-wide leading-[3.5rem] font-bold uppercase text-left mb-5 w-3/4 md:w-1/2">
           leverage agile frameworkers to provide a robust synopsis for high
           level overviews
         </h1>
